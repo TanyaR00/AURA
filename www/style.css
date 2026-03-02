@@ -24,7 +24,7 @@ body{
 }
 
 p{
-    position: fixed;
+    position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -60%);
@@ -43,10 +43,11 @@ p{
 #loader-wrapper{
     position: fixed;
     top: 50%;
-    left: 50%;
-    transform: translate(-50%, -80%);
+    left: 90%;
+    transform: translate(-30%, -80%);
     width: 300px;
     height: 300px;
+    position: relative;
 }
 
 @media (max-width: 1100px){
