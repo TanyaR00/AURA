@@ -1,5 +1,10 @@
 # AURA – Desktop Voice Assistant
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-orange)
+![Framework](https://img.shields.io/badge/Framework-Eel-green)
+![Status](https://img.shields.io/badge/Project-Active-success)
+
 Aura is a desktop voice assistant with an interactive interface that allows users to control their system using voice commands. The assistant listens to user input, processes the command, and performs actions such as launching applications or opening browser profiles.
 The goal of Aura is to provide a simple, hands-free way to interact with the computer using voice.
 
